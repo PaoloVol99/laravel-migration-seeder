@@ -18,7 +18,7 @@
 <body>
 
     <div class="container">
-        <h1 class="mb-3 mt-3">Treni in partenza oggi</h1>
+        <h1 class="mb-3 mt-3">Treni in partenza da oggi</h1>
         <ul class="list-group">
             @forelse ($trains as $train)
 
